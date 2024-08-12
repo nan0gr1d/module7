@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36ac7939-8d86-4e2d-8636-a4bff34a8ff7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/module_7_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tst1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strings_formatting.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,8 +52,10 @@
     "Python.module_7_1.executor": "Run",
     "Python.module_7_2.executor": "Run",
     "Python.module_7_3.executor": "Run",
+    "Python.strings_formatting.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -73,6 +74,19 @@
       <option name="presentableId" value="Default" />
       <updated>1723142244517</updated>
     </task>
+    <task id="LOCAL-00001" summary="Тест на указанных и приложенных к ТЗ файлах пройден успешно">
+      <option name="closed" value="true" />
+      <created>1723209992318</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723209992318</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Тест на указанных и приложенных к ТЗ файлах пройден успешно" />
+    <option name="LAST_COMMIT_MESSAGE" value="Тест на указанных и приложенных к ТЗ файлах пройден успешно" />
   </component>
 </project>
